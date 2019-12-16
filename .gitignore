@@ -33,3 +33,5 @@ swagger-ui-master.tar.gz
 
 # IDE
 .vscode
+
+.nyc_output
